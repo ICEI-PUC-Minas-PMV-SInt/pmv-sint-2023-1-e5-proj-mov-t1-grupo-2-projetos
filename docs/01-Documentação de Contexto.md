@@ -1,46 +1,38 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Adopter dans les Ardennes flamandes é uma organização sem fins lucrativos dedicada à adoção de animais abandonados ou vítimas de maus-tratos. A organização está localizada na região de Ardennes flamandes, na Bélgica. Fundada em 2010, a organização tem como objetivo principal encontrar lares amorosos e responsáveis para os animais necessitados que são resgatados por seus voluntários.
+
+Adopter dans les Ardennes flamandes atua principalmente com cães e gatos, mas também abriga outros animais como coelhos, pássaros, hamsters e tartarugas. Todos os animais são examinados por um veterinário, vacinados e tratados, antes de serem colocados para adoção. A organização também oferece assistência pós-adopção para garantir que os animais adotados estejam recebendo o cuidado e amor necessários em seus novos lares.
+
+Adopter dans les Ardennes flamandes depende de doações e do trabalho de voluntários para manter suas operações funcionando. A organização organiza eventos de arrecadação de fundos e campanhas de conscientização para promover a adoção responsável de animais. A equipe também trabalha em estreita colaboração com outras organizações de bem-estar animal para combater o abuso e a crueldade animal na região.
+
+Em resumo, Adopter dans les Ardennes flamandes é uma organização sem fins lucrativos que atua na região de Ardennes flamandes, na Bélgica, dedicada à adoção responsável de animais abandonados ou vítimas de maus-tratos. A organização trabalha principalmente com cães e gatos, mas também abriga outros animais. A organização depende de doações e voluntários para manter suas operações em andamento.
+
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+O problema que a aplicação deve resolver é a gestão de adoções de animais pela ONG "Adopter dans les Ardennes". A ONG precisa gerenciar o cadastro de animais disponíveis para adoção, informações dos potenciais adotantes e do processo de adoção em si.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+A aplicação será utilizada pelos membros da "Adopter dans les Ardennes", que incluem voluntários, coordenadores e outros envolvidos no processo de adoção de animais. A ONG poderá utilizar a aplicação para gerenciar o cadastro de animais disponíveis para adoção, armazenar informações dos potenciais adotantes e acompanhar o processo de adoção de cada animal etc.
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O objetivo geral deste trabalho é desenvolver um software para solucionar o problema de gestão de adoções de animais pela ONG "Adopter dans les Ardennes". O software deve permitir que a ONG gerencie o cadastro de animais disponíveis para adoção, informações dos potenciais adotantes e do processo de adoção em si.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Objetivos específicos:
+
+- Desenvolver uma interface amigável e intuitiva para facilitar o trabalho dos voluntários e coordenadores da ONG.
+- Implementar um sistema de armazenamento seguro e confidencial de dados, para proteger as informações dos animais e potenciais adotantes.
+- Aperfeiçoar o processo de adoção de animais, agilizando os trâmites e proporcionando maior transparência e eficiência na gestão.
+
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+A importância deste trabalho reside na necessidade de uma solução eficiente para a gestão de adoções de animais pela ONG "Adopter dans les Ardennes". Com a aplicação desenvolvida, a ONG poderá gerenciar de forma mais eficiente o cadastro de animais disponíveis para adoção, além de poder acompanhar o processo de adoção de cada animal, desde o cadastro do potencial adotante até a entrega do animal ao novo lar.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+O trabalho também permitirá uma melhoria na transparência e eficiência na gestão da ONG, proporcionando uma melhor experiência para os voluntários, potenciais adotantes e, principalmente, para os animais resgatados pela organização.
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+O público-alvo desta aplicação são os membros da ONG "Adopter dans les Ardennes", que incluem voluntários, coordenadores e outros envolvidos no processo de adoção de animais. Esses usuários possuem diferentes perfis, mas todos compartilham o objetivo comum de encontrar lares amorosos e responsáveis para os animais resgatados.
