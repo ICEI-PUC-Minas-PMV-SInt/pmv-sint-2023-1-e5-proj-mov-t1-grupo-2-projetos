@@ -272,17 +272,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 # Matriz de Rastreabilidade
 
-A matriz de rastreabilidade é uma ferramenta usada para facilitar a visualização dos relacionamento entre requisitos e outros artefatos ou objetos, permitindo a rastreabilidade entre os requisitos e os objetivos de negócio. 
+<table><thead><tr><th>Requisito</th><th>RF01</th><th>RF02</th><th>RF03</th><th>RF04</th><th>RF05</th><th>RF06</th><th>RF07</th><th>RF08</th></tr></thead><tbody><tr><td>RNF01</td><td>X</td><td>X</td><td>X</td><td></td><td>X</td><td>X</td><td>X</td><td>X</td></tr><tr><td>RNF02</td><td></td><td></td><td></td><td>X</td><td></td><td></td><td></td><td></td></tr><tr><td>RNF03</td><td>X</td><td>X</td><td>X</td><td></td><td>X</td><td></td><td></td><td></td></tr><tr><td>RNF04</td><td></td><td></td><td></td><td></td><td>X</td><td></td><td></td><td></td></tr><tr><td>RNF05</td><td></td><td></td><td></td><td>X</td><td></td><td>X</td><td></td><td></td></tr></tbody></table>
 
-A matriz deve contemplar todos os elementos relevantes que fazem parte do sistema, conforme a figura meramente ilustrativa apresentada a seguir.
-
-![Exemplo de matriz de rastreabilidade](img/02-matriz-rastreabilidade.png)
-
-> **Links Úteis**:
-> - [Artigo Engenharia de Software 13 - Rastreabilidade](https://www.devmedia.com.br/artigo-engenharia-de-software-13-rastreabilidade/12822/)
-> - [Verificação da rastreabilidade de requisitos usando a integração do IBM Rational RequisitePro e do IBM ClearQuest Test Manager](https://developer.ibm.com/br/tutorials/requirementstraceabilityverificationusingrrpandcctm/)
-> - [IBM Engineering Lifecycle Optimization – Publishing](https://www.ibm.com/br-pt/products/engineering-lifecycle-optimization/publishing/)
-
+A matriz de rastreabilidade mostra que o requisito RNF01 está relacionado com todos os requisitos funcionais, exceto RF04. Já o requisito RNF02 está relacionado apenas com RF04. O requisito RNF03 está relacionado com todos os requisitos funcionais, exceto RF04 e RF06. O requisito RNF04 está relacionado apenas com RF05. Por fim, o requisito RNF05 está relacionado com RF04 e RF06.
 
 # Gerenciamento de Projeto
 
