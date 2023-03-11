@@ -1,19 +1,17 @@
 # TÍTULO DO PROJETO
 
-`CURSO`
+`CURSO: Desenvolvimento de Aplicações Móveis` 
 
-`DISCIPLINA`
+`DISCIPLINA: Desenvolvimento de Aplicações Móveis`
 
-`SEMESTRE`
+`SEMESTRE: 2023.1`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Juan Marques
+* Erika Talita Gouvea Marques
 
 ## Orientador
 
