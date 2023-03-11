@@ -63,13 +63,60 @@ Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em segu
 ![Processo 2](img/02-bpmn-proc2.png)
 
 ## Indicadores de Desempenho
-
-Apresente aqui os principais indicadores de desempenho e algumas metas para o processo. Atenção: as informações necessárias para gerar os indicadores devem estar contempladas no diagrama de classe. Colocar no mínimo 5 indicadores. 
-
-Usar o seguinte modelo: 
-
-![Indicadores de Desempenho](img/02-indic-desemp.png)
-Obs.: todas as informações para gerar os indicadores devem estar no diagrama de classe a ser apresentado a posteriori. 
+<table>
+   <thead>
+      <tr>
+         <th>Indicador</th>
+         <th>Objetivos</th>
+         <th>Descrição</th>
+         <th>Cálculo</th>
+         <th>Fonte de dados</th>
+         <th>Perspectiva</th>
+      </tr>
+   </thead>
+   <tbody>
+      <tr>
+         <td>Número de adoções</td>
+         <td>Aperfeiçoar o processo de adoção de animais</td>
+         <td>Mede o número total de animais adotados em um determinado período de tempo</td>
+         <td>Total de adoções realizadas</td>
+         <td>Sistema interno da ONG</td>
+         <td>Processo interno</td>
+      </tr>
+      <tr>
+         <td>Satisfação dos voluntários</td>
+         <td>Desenvolver uma interface amigável e intuitiva para facilitar o trabalho dos voluntários e coordenadores da ONG</td>
+         <td>Mede a satisfação dos voluntários em relação à interface do sistema</td>
+         <td>Pesquisa de satisfação com os voluntários</td>
+         <td>Sistema interno da ONG</td>
+         <td>Processo interno</td>
+      </tr>
+      <tr>
+         <td>Tempo médio de atendimento aos adotantes</td>
+         <td>Agilizar os trâmites e proporcionar maior transparência e eficiência na gestão do processo de adoção</td>
+         <td>Mede o tempo médio que o adotante leva desde o primeiro contato com a ONG até a finalização do processo de adoção</td>
+         <td>Tempo total de atendimento aos adotantes / Número de adoções realizadas</td>
+         <td>Sistema interno da ONG</td>
+         <td>Processo interno</td>
+      </tr>
+      <tr>
+         <td>Taxa de abandono</td>
+         <td>Melhorar o acompanhamento dos animais adotados e garantir que eles não sejam abandonados novamente</td>
+         <td>Mede a porcentagem de animais que são devolvidos ou abandonados pelos adotantes</td>
+         <td>Número de animais devolvidos ou abandonados / Número total de adoções realizadas</td>
+         <td>Sistema interno da ONG</td>
+         <td>Clientes</td>
+      </tr>
+      <tr>
+         <td>Índice de efetividade do sistema de armazenamento de dados</td>
+         <td>Implementar um sistema de armazenamento seguro e confidencial de dados</td>
+         <td>Mede a efetividade do sistema de armazenamento de dados em garantir a segurança e confidencialidade das informações dos animais e adotantes</td>
+         <td>Número de violações de segurança de dados / Número total de registros armazenados</td>
+         <td>Sistema interno da ONG</td>
+         <td>Processo interno</td>
+      </tr>
+   </tbody>
+</table>
 
 ## Requisitos
 
