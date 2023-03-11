@@ -91,10 +91,14 @@ Com base na análise realizada, pode-se concluir que a ONG precisa modernizar e 
 
 A proposta consiste em desenvolver e implementar uma solução que abrange aprimoramentos na interface e segurança de armazenamento de dados, além de otimizações no processo de adoção de animais da ONG. A solução tem como objetivo facilitar o trabalho dos voluntários e coordenadores da ONG, bem como proporcionar uma maior transparência e eficiência na gestão de adoção.
 Os limites da proposta estão diretamente ligados à capacidade de implementação da solução dentro dos recursos disponíveis pela ONG. É importante destacar que a proposta não visa substituir o trabalho dos voluntários e coordenadores da ONG, mas sim proporcionar ferramentas e processos mais eficientes que auxiliem no desenvolvimento das atividades já existentes.
+
 A proposta está alinhada com as estratégias e objetivos da ONG, que visam promover o bem-estar e proteção dos animais, além de estimular a conscientização e engajamento da sociedade em relação às causas dos animais abandonados.
+
 As oportunidades de melhorias apresentadas pela proposta são diversas. A interface amigável e intuitiva vai permitir que os voluntários e coordenadores trabalhem com maior facilidade e agilidade, evitando retrabalho e aumentando a produtividade. Além disso, o sistema de armazenamento seguro e confidencial de dados vai garantir a proteção das informações dos animais e potenciais adotantes, evitando perdas ou vazamentos de dados sensíveis.
+
 Já a otimização do processo de adoção de animais, com a utilização de ferramentas e processos mais eficientes, vai reduzir o tempo de espera dos adotantes e agilizar a aprovação dos candidatos, proporcionando uma maior transparência e eficiência na gestão de adoção.
-Em resumo, a proposta apresenta oportunidades de melhorias significativas para a ONG, com aprimoramentos na interface e segurança de armazenamento de dados, além de otimizações no processo de adoção de animais.
+
+Em resumo, a proposta apresenta oportunidades de melhorias significativas para a ONG, com o fornecimento de um aplicativo movél e segurança de armazenamento de dados, além de otimizações no processo de adoção de animais.
 
 
 ### Processo 1 – NOME DO PROCESSO
