@@ -105,8 +105,6 @@ Em resumo, a proposta apresenta oportunidades de melhorias significativas para a
 
 ![XP91Ri8m44NtFiKiuGgmA2oenAvYqVrWJ-X8ZYUo7QHMtAQBhZX5BjQ94q6W5UoYyN__Vq-yIXbZRcjlCcTFy1R5Kae2Zc3jfFlfleVlm3LoCkQq3TtPifnC8SrYHvRs5269PyiPBmYE-D8itYbonHOZE4wD1DwpPuSgSWBOM_kbuGfc9SQFgkvy9FyoX_n10MQVbEO6OB4-K73gTEIaQSj-](https://user-images.githubusercontent.com/4424108/224519920-5d2d6bea-32d2-4fe5-8f89-fe7897a3a150.svg)
 
-### Processo 2 – NOME DO PROCESSO
-
 
 ## Indicadores de Desempenho
 <table>
