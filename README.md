@@ -1,12 +1,12 @@
-# TÍTULO DO PROJETO
+# Adopter dans les Ardennes
 
-`CURSO: Desenvolvimento de Aplicações Móveis` 
+`CURSO: SISTEMAS PARA INTERNET` 
 
 `DISCIPLINA: Desenvolvimento de Aplicações Móveis`
 
 `SEMESTRE: 2023.1`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto que está sendo desenvolvido é uma aplicação de software para solucionar o problema de gestão de adoções de animais pela ONG "Adopter dans les Ardennes". O software tem como objetivo permitir que a ONG gerencie o cadastro de animais disponíveis para adoção, armazene informações dos potenciais adotantes e acompanhe o processo de adoção de cada animal. O projeto visa desenvolver uma interface amigável e intuitiva para facilitar o trabalho dos voluntários e coordenadores da ONG, implementar um sistema de armazenamento seguro e confidencial de dados e aperfeiçoar o processo de adoção de animais, proporcionando maior transparência e eficiência na gestão. O público-alvo da aplicação são os membros da ONG "Adopter dans les Ardennes", que incluem voluntários, coordenadores e outros envolvidos no processo de adoção de animais.
 
 ## Integrantes
 
@@ -15,7 +15,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Orientador
 
-* Nome completo do professor 1
+* Leonardo Vilela Cardoso
 
 ## Instruções de utilização
 
