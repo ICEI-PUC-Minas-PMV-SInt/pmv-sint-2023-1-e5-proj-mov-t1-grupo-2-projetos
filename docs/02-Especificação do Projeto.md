@@ -101,17 +101,12 @@ Já a otimização do processo de adoção de animais, com a utilização de fer
 Em resumo, a proposta apresenta oportunidades de melhorias significativas para a ONG, com o fornecimento de um aplicativo movél e segurança de armazenamento de dados, além de otimizações no processo de adoção de animais.
 
 
-### Processo 1 – NOME DO PROCESSO
+### Processo 1 – Processo de Adoção de Animais
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN. 
-
-![Processo 1](img/02-bpmn-proc1.png)
+![XP91Ri8m44NtFiKiuGgmA2oenAvYqVrWJ-X8ZYUo7QHMtAQBhZX5BjQ94q6W5UoYyN__Vq-yIXbZRcjlCcTFy1R5Kae2Zc3jfFlfleVlm3LoCkQq3TtPifnC8SrYHvRs5269PyiPBmYE-D8itYbonHOZE4wD1DwpPuSgSWBOM_kbuGfc9SQFgkvy9FyoX_n10MQVbEO6OB4-K73gTEIaQSj-](https://user-images.githubusercontent.com/4424108/224519920-5d2d6bea-32d2-4fe5-8f89-fe7897a3a150.svg)
 
 ### Processo 2 – NOME DO PROCESSO
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN.
-
-![Processo 2](img/02-bpmn-proc2.png)
 
 ## Indicadores de Desempenho
 <table>
