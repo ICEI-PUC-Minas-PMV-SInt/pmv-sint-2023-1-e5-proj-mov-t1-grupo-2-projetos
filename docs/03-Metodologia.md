@@ -1,7 +1,5 @@
 # Metodologia
 
-**Pré-requisitos**: [Documentação de Especificação](2-Especificação do Projeto.md)
-
 A metodologia de trabalho do grupo foi baseada em práticas ágeis, utilizando o Agile como guia para gerenciar e organizar as atividades do projeto. O trabalho foi dividido em etapas iterativas e incrementais, permitindo uma entrega contínua de valor e aprimoramento do software.
 
 ## Relação de Ambientes de Trabalho
