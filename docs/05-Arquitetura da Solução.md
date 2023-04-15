@@ -59,6 +59,7 @@ A camada de apresentação é responsável por expor APIs RESTful para os client
 
 O projeto também utiliza Docker como uma ferramenta para o gerenciamento de ambientes de desenvolvimento.
 
+<pre>
 +----------------+    +---------------------+    +----------------+    +-----------------+
 | Interface do   |    | Camada de           |    | Camada de      |    | Camada de       |
 | Cliente        +--->+ Apresentação (API)  +--->+ Negócios       +--->+ Acesso a Dados |
@@ -78,7 +79,7 @@ O projeto também utiliza Docker como uma ferramenta para o gerenciamento de amb
                     | Spring Cloud   |
                     |     Azure      |
                     +----------------+
-
+</pre>
 
 ## Hospedagem
 
