@@ -10,6 +10,10 @@ As ferramentas e plataformas utilizadas neste projeto incluem:
 - **Plataforma**: IntelliJ IDEA
 - **Link de Acesso**: [https://www.jetbrains.com/idea/](https://www.jetbrains.com/idea/)
 
+- **Ambiente**: Contêinerização
+- **Plataforma**: Docker
+- **Link de Acesso**: [https://www.docker.com/](https://www.docker.com/)
+
 ## Controle de Versão
 
 A ferramenta de controle de versão adotada no projeto foi o [Git](https://git-scm.com/), sendo que o [Github](https://github.com) foi utilizado para hospedagem do repositório.
