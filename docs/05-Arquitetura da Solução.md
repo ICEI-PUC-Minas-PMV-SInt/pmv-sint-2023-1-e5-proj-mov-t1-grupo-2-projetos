@@ -1,10 +1,6 @@
 # Arquitetura da Solução
 
-<span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>
-
-Definição de como o software é estruturado em termos dos componentes que fazem parte da solução e do ambiente de hospedagem da aplicação.
-
-![Arquitetura da Solução](img/02-mob-arch.png)
+![image](https://user-images.githubusercontent.com/4424108/232325827-8ee4f504-98c4-4704-adb6-a049a3404eb1.png)
 
 ## Diagrama de Classes
 
@@ -68,6 +64,48 @@ O projeto também utiliza Docker como uma ferramenta para o gerenciamento de amb
 ## Hospedagem
 
 O projeto foi hospedado e implantado na nuvem usando a plataforma Azure da Microsoft, especificamente o serviço Azure Web App. A escolha do Azure foi motivada pelo uso do Spring Cloud Azure, que facilita a integração com os serviços do Azure, incluindo o Azure Storage e o PostgreSQL no Azure.
+
+## Rotas
+
+AdopterController:
+- POST /api/adopters: createAdopter(FilePart, AdopterDTO)
+- GET /api/adopters/{id}: getAdopter(Long)
+- GET /api/adopters: getAllAdopters()
+
+AnimalController:
+- GET /api/animals/available: getAllAnimalsByIsAvailable(boolean)
+- PUT /api/animals/{id}, consumes [multipart/form-data || application/json]: updateAnimal(Long, AnimalDTO, FilePart)
+- GET /api/animals: getAllAnimals()
+- DELETE /api/animals/{id}: deleteAnimal(Long)
+- GET /api/animals/{id}: getAnimal(Long)
+- POST /api/animals: createAnimal(FilePart, AnimalDTO)
+
+AuthController:
+- POST /api/auth/refresh: refresh(String)
+- POST /api/auth/login: login(LoginRequest)
+
+UserController:
+- GET /api/user/test: test()
+
+AdoptionProcessController:
+- GET /api/adoption-processes/{id}: getAdoptionProcess(Long)
+- GET /api/adoption-processes: getAllAdoptionProcesses()
+- PUT /api/adoption-processes/{id}: updateAdoptionProcess(Long, AdoptionProcessDTO)
+- POST /api/adoption-processes: createAdoptionProcess(AdoptionProcessDTO)
+
+ShelterVisitController:
+- POST /api/shelter-visits: createShelterVisit(ShelterVisitDTO)
+- PUT /api/shelter-visits/{id}: updateShelterVisit(Long, ShelterVisitDTO)
+- DELETE /api/shelter-visits/{id}: deleteShelterVisit(Long)
+- GET /api/shelter-visits: getAllShelterVisits()
+- GET /api/shelter-visits/{id}: getShelterVisitById(Long)
+
+VolunteerController:
+- GET /api/volunteers: getAllVolunteers()
+- GET /api/volunteers/{id}: getVolunteerById(Long)
+- PUT /api/volunteers/{id}: updateVolunteer(Long, VolunteerDTO)
+- DELETE /api/volunteers/{id}: deleteVolunteer(Long)
+- POST /api/volunteers: createVolunteer(VolunteerDTO)
 
 ### Passos para hospedagem e lançamento:
 
