@@ -30,16 +30,18 @@ Este projeto visa desenvolver uma aplicação para resolver o problema de gestã
 
 Para um entendimento mais aprofundado, consulte a nossa documentação detalhada do projeto:
 
-1. [Documentação de Contexto](docs/01-Documentação de Contexto.md)
-2. [Especificação do Projeto](docs/02-Especificação do Projeto.md)
-3. [Metodologia](docs/03-Metodologia.md)
-4. [Projeto de Interface](docs/04-Projeto de Interface.md)
-5. [Arquitetura da Solução](docs/05-Arquitetura da Solução.md)
-6. [Template Padrão da Aplicação](docs/06-Template Padrão da Aplicação.md)
-7. [Programação de Funcionalidades](docs/07-Programação de Funcionalidades.md)
-8. [Plano de Testes de Software](docs/08-Plano de Testes de Software.md)
-9. [Registro de Testes de Software](docs/09-Registro de Testes de Software.md)
-10. [Plano de Testes de Usabilidade](docs/10-Plano de Testes de Usabilidade.md)
-11. [Registro de Testes de Usabilidade](docs/11-Registro de Testes de Usabilidade.md)
-12. [Apresentação do Projeto.md](docs/12-Apresentação do Projeto.md)
-13. [Quadro Visual Gestão Contribuições.md](docs/13-Quadro Visual Gestão Contribuições.md.md)
+1. [Documentação de Contexto](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e5-proj-mov-t1-grupo-2-projetos/blob/main/docs/01-Documentação%20de%20Contexto.md)
+2. [Especificação do Projeto](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e5-proj-mov-t1-grupo-2-projetos/blob/main/docs/02-Especificação%20do%20Projeto.md)
+3. [Metodologia](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e5-proj-mov-t1-grupo-2-projetos/blob/main/docs/03-Metodologia.md)
+4. [Projeto de Interface](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e5-proj-mov-t1-grupo-2-projetos/blob/main/docs/04-Projeto_de%20Interface.md)
+5. [Arquitetura da Solução](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e5-proj-mov-t1-grupo-2-projetos/blob/main/docs/05-Arquitetura%20da%20Solução.md)
+6. [Template Padrão da Aplicação](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e5-proj-mov-t1-grupo-2-projetos/blob/main/docs/06-Template%20Padrão%20da%20Aplicação.md)
+7. [Programação de Funcionalidades](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e5-proj-mov-t1-grupo-2-projetos/blob/main/docs/07-Programação%20de%20Funcionalidades.md)
+8. [Plano de Testes de Software](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e5-proj-mov-t1-grupo-2-projetos/blob/main/docs/08-Plano%20de%20Testes%20de%20Software.md)
+9. [Registro de Testes de Software](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e5-proj-mov-t1-grupo-2-projetos/blob/main/docs/09-Registro%20de%20Testes%20de%20Software.md)
+10. [Plano de Testes de Usabilidade](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e5-proj-mov-t1-grupo-2-projetos/blob/main/docs/10-Plano%20de%20Testes%20de%20Usabilidade.md)
+11. [Registro de Testes de Usabilidade](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e5-proj-mov-t1-grupo-2-projetos/blob/main/docs/11-Registro%20de%20Testes%20de%20Usabilidade.md)
+12. [Apresentação do Projeto](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e5-proj-mov-t1-grupo-2-projetos/blob/main/docs/12-Apresentação%20do%20Projeto.md)
+13. [Quadro Visual Gestão Contribuições](https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2023-1-e5-proj-mov-t1-grupo-2-projetos/blob/main/docs/13-Quadro%20Visual%20Gestão%20Contribuições.md.md)
+
+
