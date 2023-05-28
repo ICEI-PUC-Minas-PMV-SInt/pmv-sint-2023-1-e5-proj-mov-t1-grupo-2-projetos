@@ -1,0 +1,2 @@
+ALTER TABLE animals
+    ADD COLUMN has_been_adopted BOOLEAN NOT NULL DEFAULT FALSE;
