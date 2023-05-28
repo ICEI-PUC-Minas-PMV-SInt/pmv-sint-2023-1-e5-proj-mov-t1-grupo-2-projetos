@@ -12,7 +12,7 @@ Este projeto visa desenvolver uma aplicação para resolver o problema de gestã
 
 ## Instruções de Uso
 
-1. Faça o download do APK `adopter-dans-les-ardennes-app.apk` para instalar o aplicativo em seu dispositivo, ou use `adopter-dans-les-ardennes-app.aab` para implantação na Google Store.
+1. Faça o download do APK [adopter-dans-les-ardennes-app.apk](https://expo.dev/artifacts/eas/c8ejMeYKcJB7VYgGVXpNHQ.apk) para instalar o aplicativo em seu dispositivo, ou use [adopter-dans-les-ardennes-app.aab](https://expo.dev/artifacts/eas/tQJFzmqcCaRQU2ynLEUVRs.aab) para implantação na Google Store.
 2. Detalhes de login padrão são os seguintes:
     - Usuário: admin
     - Senha: admin
